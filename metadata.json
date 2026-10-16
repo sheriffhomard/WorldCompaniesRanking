@@ -1,0 +1,6 @@
+{
+  "name": "World Companies Ranking - WCR",
+  "description": "Terminal financier institutionnel local-first pour l'analyse des classements mondiaux d'entreprises, métriques TTM, décompositions trimestrielles et normalisation XBRL/SEC EDGAR.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
